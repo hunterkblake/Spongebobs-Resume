@@ -1,0 +1,48 @@
+/* css Resume */
+
+
+div {background-color: skyblue;}
+
+body {background-color:skyblue;
+	}
+
+H2 {font-family: 'Raleway';
+	font-size: 30px;
+	font-weight: bold;
+	color:red;
+	}
+
+H3 { Margin-left:250px;
+	margin-right: 250px;
+	font-family: 'raleway';
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	color:red;
+	}
+
+p1{text-align: center;
+margin-left: 450px;
+margin-right: 450px;}
+
+p{ font-family: 'Raleway';
+	font-size: 18px;
+	Margin-left: 450px;
+	Margin-right: 450px;
+	color:red;
+
+	}
+
+ul{ font-family:'Raleway';
+	padding: 36px 0 36px 84px;
+	list-style: none;
+	background-image: url(Krabby_Patty.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 40px;
+	color:red; 
+	text-align: center;
+	margin-left: 450px;
+	margin-right: 450px;
+	}	
+
